@@ -13,4 +13,4 @@ Just a fun little game I've made
 
 ### Make maps with:  
 [`cd src`]  
-`python -m map_maker.py`
+`python -m map_maker.main`
